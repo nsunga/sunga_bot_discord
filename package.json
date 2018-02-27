@@ -2,7 +2,7 @@
   "name": "sunga_bot_discord",
   "version": "1.0.0",
   "description": "'sunga_bot' for discord",
-  "main": "index.js",
+  "main": "sunga_bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
