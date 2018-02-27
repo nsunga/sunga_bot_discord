@@ -1,0 +1,23 @@
+{
+  "name": "sunga_bot_discord",
+  "version": "1.0.0",
+  "description": "'sunga_bot' for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsunga/sunga_bot_discord.git"
+  },
+  "author": "nick sunga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsunga/sunga_bot_discord/issues"
+  },
+  "homepage": "https://github.com/nsunga/sunga_bot_discord#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "urban-dictionary": "^1.0.6"
+  }
+}
